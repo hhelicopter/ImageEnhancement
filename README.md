@@ -1,5 +1,5 @@
 # Low-illumination image enhancement using a conditional generative adversarial network
-This repository is GAN for Low-illumination image ehancement
+This repository is a GAN model for Low-illumination image ehancement
 ## Dependence
 - tensorflow==1.8.0
 - numpy==1.16.0
